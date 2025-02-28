@@ -12,7 +12,7 @@
 
 ## 实际效果
 
-![评分示例](docs/images/example.png)
+![评分示例](WechatIMG249.jpg)
 
 输入提示词：傍晚海边，两位头发白花的老年手牵手
 
